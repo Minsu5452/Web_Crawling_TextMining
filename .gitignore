@@ -1,0 +1,16 @@
+# 데이터 / 산출물
+data/
+*.xlsx
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
